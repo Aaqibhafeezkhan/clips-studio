@@ -2,7 +2,7 @@
 
 Thanks for helping! Clips Kitty is a local-first AI clipping app. Python
 FastAPI backend + Electron/React UI. Issues labeled
-[`good-first-issue`](../../labels/good-first-issue) are small and
+[`good first issue`](../../labels/good%20first%20issue) are small and
 well-scoped if you want a place to start.
 
 ## Fixing a bug from a Feedback Hub report
