@@ -32,11 +32,11 @@
 
 <a href="https://youtu.be/g1dMqrq-YaI"><img src="https://github.com/user-attachments/assets/2a1bdd85-723e-46d6-b74b-00579c71b6a7" alt="Clips Kitty turning an NBA broadcast into a 9:16 clip that follows the ball" width="100%"></a>
 
-<a id="star-and-share-clips-kitty--goal-725"></a>
+<a id="star-and-share-clips-kitty--goal-750"></a>
 
-### Clips Kitty'ye yıldız verin ve paylaşın ⭐ Hedef: 725
+### Clips Kitty'ye yıldız verin ve paylaşın ⭐ Hedef: 750
 
-[![Stars so far](https://badgen.net/github/stars/ColinGPT9/clips-studio?label=stars%20so%20far&color=0969da&scale=1.6)](https://github.com/ColinGPT9/clips-studio/stargazers) **/ 725**
+[![Stars so far](https://badgen.net/github/stars/ColinGPT9/clips-studio?label=stars%20so%20far&color=0969da&scale=1.6)](https://github.com/ColinGPT9/clips-studio/stargazers) **/ 750**
 
 **Lütfen depoya yıldız verin ve paylaşın.** Size hiçbir maliyeti yok. Bu projenin
 arkasında bir pazarlama bütçesi de yok; bir sonraki küçük YouTuber'ın ya da yayıncının
